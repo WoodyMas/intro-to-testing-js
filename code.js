@@ -35,5 +35,10 @@
         // else {
         //     return "Hello, World!"
         // }
-    }
+    // Given edge case examples return the values as strings. I have no reason to not desire this outcome... yet.
+}
+
+function isFive (value) {
+    return value === 5;
+}
 
